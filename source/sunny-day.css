@@ -1,0 +1,15 @@
+/*
+ * 2013 Josselin Auguste <jauguste@iblop.net>
+ *
+ */
+
+ .inbox-zero-image {
+ 	margin: 2em;
+ }
+
+.inbox-zero-label {
+    color: #666;
+    line-height: 1.6em;
+    text-shadow: 1px 1px 1px #C0C0C0;
+    filter: dropshadow(color=#C0C0C0, offx=1, offy=1);
+}
