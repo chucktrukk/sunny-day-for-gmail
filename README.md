@@ -1,4 +1,4 @@
-## What is Sunny Day?
+## What is Sunny Day for Gmail?
 A Google chrome extension to make your gmail inbox a little more sunny on inbox zero day.
 
 ## How to install it?
