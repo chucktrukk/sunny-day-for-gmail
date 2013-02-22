@@ -3,4 +3,4 @@ A Google chrome extension to make your gmail inbox a little more sunny on inbox 
 
 ## How to install it?
 
-Download the zipfile , uncompress it and drag the sunny-day.crx file to a chrome window.
+Go to the official chrome extension webpage https://chrome.google.com/webstore/detail/sunny-day-for-gmail/akhgnpjndpcijeeipkamhlamgoeiaclp and click "Add to Chrome".
